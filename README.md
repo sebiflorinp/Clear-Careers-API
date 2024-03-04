@@ -1,32 +1,20 @@
-![Logo](https://i.postimg.cc/3RvPL63C/clear-careers-high-resolution-logo-black.png)
+![GitHub Release](https://img.shields.io/github/v/release/sebiflorinp/Clear-Careers-API)
+![Coverage](https://github.com/sebiflorinp/Clear-Careers/blob/main/backend/coverage.svg)
 
-Clear Careers is a job finding application which is in development. It's goal is to make it easier for employees to find work and for employers to fiind employees.
+This is the API for Clear Careers which is a job finding application that is in development.<br>
+It's goal is to make it easier for employees to find work and for employers to fiind employees.
 
 ## Tech Stack
 
 **Server:** Django, Django-Rest-Framework
 
-## Tests
 
-![Coverage](https://github.com/sebiflorinp/Clear-Careers/blob/main/backend/coverage.svg)
 
 ## Documentation
 
 - [Swagger UI](https://clear-careers.onrender.com/api/v1/schema/swagger-ui/)
 
 - [ReDoc](https://clear-careers.onrender.com/api/v1/schema/redoc/)
-
-## Commits
-
-![GitHub last commit](https://img.shields.io/github/last-commit/sebiflorinp/Clear-Careers?display_timestamp=committer&style=flat)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sebiflorinp/Clear-Careers)
-![GitHub commits since latest release](https://img.shields.io/github/commits-since/sebiflorinp/Clear-Careers/latest?include_prereleases&style=flat)
-
-
-## Releases
-
-![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/sebiflorinp/Clear-Careers)
-![GitHub Release](https://img.shields.io/github/v/release/sebiflorinp/Clear-Careers?include_prereleases)
 
 
 ## Appendix
