@@ -1,19 +1,14 @@
-# Clear-Careers-API
-
 ![Logo](https://i.postimg.cc/3RvPL63C/clear-careers-high-resolution-logo-black.png)
 
 Clear Careers is a job finding application which is in development. It's goal is to make it easier for employees to find work and for employers to fiind employees.
 
-
 ## Tech Stack
-
-**Client:** React, TailwindCSS
 
 **Server:** Django, Django-Rest-Framework
 
 ## Tests
 
-![Coverage ](https://github.com/sebiflorinp/Clear-Careers/blob/main/backend/coverage.svg)
+![Coverage](https://github.com/sebiflorinp/Clear-Careers/blob/main/backend/coverage.svg)
 
 ## Documentation
 
