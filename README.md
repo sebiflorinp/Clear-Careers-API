@@ -6,7 +6,7 @@ It's goal is to make it easier for employees to find work and for employers to f
 
 ## Tech Stack
 
-**Server:** Django, Django-Rest-Framework
+**Backend:** Django, Django-Rest-Framework
 
 
 
@@ -21,7 +21,7 @@ It's goal is to make it easier for employees to find work and for employers to f
 
 The API is hosted on a free instance of Render and it takes around a minute for the API to receive requests after it spins down due to inactivity.
 
-
+Due to the free instance of Render expering, the API can no longer be accessed nor the documentation.
 
 
 
